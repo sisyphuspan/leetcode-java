@@ -1,5 +1,5 @@
 package StringProcessing;
-public class ValidPalindrome {
+public class ValidPalindrome_125 {
 
 	public static boolean isPalindrome(String s) {
 		if (s.length() == 0)
