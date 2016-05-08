@@ -1,5 +1,3 @@
-package analysis;
-
 /**
  * Created by sisyphuspan on 16/4/22.
  */

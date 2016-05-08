@@ -1,4 +1,3 @@
-package binarySearch;
 
 /**
  * Created by sisyphuspan on 16/4/7.

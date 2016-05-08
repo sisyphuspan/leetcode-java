@@ -1,4 +1,3 @@
-package divide_conquer;
 
 /**
  * Created by sisyphuspan on 16/4/23.

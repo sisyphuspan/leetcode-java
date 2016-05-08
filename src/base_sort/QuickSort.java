@@ -1,5 +1,3 @@
-package base_sort;
-
 /**
  * Created by sisyphuspan on 16/4/23.
  */
